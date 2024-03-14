@@ -1,5 +1,5 @@
 [package]
-name = "rust-cli"
+name = "rust-cli-curry"
 version = "0.1.0"
 edition = "2021"
 description = "A simple CLI tool written in Rust"
